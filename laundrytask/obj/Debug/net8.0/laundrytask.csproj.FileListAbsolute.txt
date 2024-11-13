@@ -1,0 +1,14 @@
+F:\SINKTANK\laundrytask\laundrytask\obj\Debug\net8.0\laundrytask.GeneratedMSBuildEditorConfig.editorconfig
+F:\SINKTANK\laundrytask\laundrytask\obj\Debug\net8.0\laundrytask.AssemblyInfoInputs.cache
+F:\SINKTANK\laundrytask\laundrytask\obj\Debug\net8.0\laundrytask.AssemblyInfo.cs
+F:\SINKTANK\laundrytask\laundrytask\obj\Debug\net8.0\laundrytask.csproj.CoreCompileInputs.cache
+F:\SINKTANK\laundrytask\laundrytask\bin\Debug\net8.0\laundrytask.exe
+F:\SINKTANK\laundrytask\laundrytask\bin\Debug\net8.0\laundrytask.deps.json
+F:\SINKTANK\laundrytask\laundrytask\bin\Debug\net8.0\laundrytask.runtimeconfig.json
+F:\SINKTANK\laundrytask\laundrytask\bin\Debug\net8.0\laundrytask.dll
+F:\SINKTANK\laundrytask\laundrytask\bin\Debug\net8.0\laundrytask.pdb
+F:\SINKTANK\laundrytask\laundrytask\obj\Debug\net8.0\laundrytask.dll
+F:\SINKTANK\laundrytask\laundrytask\obj\Debug\net8.0\refint\laundrytask.dll
+F:\SINKTANK\laundrytask\laundrytask\obj\Debug\net8.0\laundrytask.pdb
+F:\SINKTANK\laundrytask\laundrytask\obj\Debug\net8.0\laundrytask.genruntimeconfig.cache
+F:\SINKTANK\laundrytask\laundrytask\obj\Debug\net8.0\ref\laundrytask.dll
